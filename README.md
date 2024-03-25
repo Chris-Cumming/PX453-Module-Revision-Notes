@@ -1,0 +1,1 @@
+These revision notes are for the 4th year module PX453: Advanced Quantum Theory offered at the University of Warwick. They were made for use by the Warwick Physics Society as part of their revision guides and are based off my own revision notes. The original LaTeX template was downloaded from Overleaf: https://www.overleaf.com/latex/templates/mcmaster-thesis-example/bjccppctqwgt.
